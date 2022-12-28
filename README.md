@@ -1,4 +1,5 @@
 # VideoEncryption
 Encryption and Decryption Using Pyhon
 
-![EncOutput](https://user-images.githubusercontent.com/88503240/209755808-d2b1e6ee-2c7f-46d8-94b0-382d66bc3382.png)
+![EncOutput](https://user-images.githubusercontent.com/88503240/209755958-50343dcd-b43d-4252-b267-6e20cc9c2ab4.png)
+
